@@ -14,7 +14,6 @@
 |----------|---------|---------|--------|
 | React, Next.js, Tailwind CSS, JavaScript/TypeScript | Node.js, Python, Java, C++ | ETL Pipelines, SQL, ML (TensorFlow) | Web3, Cybersecurity, APIs |
 
-![Badges](https://img.shields.io/badge/Python-3.11-green?style=flat&logo=python) ![React-blue?style=flat&logo=react&logoColor=white)
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nishchal%20Kumar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nishchal-kumar-10a463324/)
