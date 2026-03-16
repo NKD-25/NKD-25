@@ -1,8 +1,5 @@
 <div align="center">
-  👋 Hi, I'm **Nishchal Kumar** – CSE Student & Data Engineer from India
-  
-  ![Your Stats](https://github-readme-stats.vercel.app/api?username=nishchalkumar&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishchalkumar&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+  👋 Hi, I'm **Nishchal Kumar** – CSE Student & Data Engineer from India.
 
 ## 🔭 About Me
 - 🎓 Computer Science & Engineering student.
@@ -22,8 +19,5 @@
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nishchal%20Kumar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nishchal-kumar-10a463324/)
 [![GitHub](https://img.shields.io/badge/GitHub-nishchalkumar-black?style=flat&logo=github)](https://github.com/nishchalkumar)
-- 📧 nishchal831nkd@gmail.com
-  
-![Snake](https://github.com/nishchalkumar/nishchalkumar/blob/output/github-contribution-grid-snake-dark.svg)
 
-*Updated Mar 2026* | Building scalable AI & data solutions 🚀 [web:27]
+- 📧 nishchal831nkd@gmail.com
