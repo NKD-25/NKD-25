@@ -6,8 +6,8 @@
 - 💼 Data Engineer Intern at **Digii Learn** – Completed ETL pipelines, analytics, and data processing projects.
 - 🚀 Skilled in full-stack dev (React, Node.js, Python, Java), AI/ML, cybersecurity, Web3, and hackathons.
 - 🏆 Competitive coder, AI app builder, automated trading algos, and low-cost northern India traveler.
-- ⚡ Interests: Advanced ML, blockchain security, growth marketing, F1, Valorant gaming.
-- 📍 Banūr, Punjab | #OpenToWork
+- ⚡ Interests: Advanced ML, blockchain security, growth marketing, F1 .
+
 
 ## 🛠️ Tech Stack
 | Frontend | Backend | Data/AI | Others |
